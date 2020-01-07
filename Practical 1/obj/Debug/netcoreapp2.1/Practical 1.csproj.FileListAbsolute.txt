@@ -1,0 +1,11 @@
+F:\study_matrial\sem-6\.NET\Projects\Lab_Practicals\Practical 1\bin\Debug\netcoreapp2.1\Practical 1.deps.json
+F:\study_matrial\sem-6\.NET\Projects\Lab_Practicals\Practical 1\bin\Debug\netcoreapp2.1\Practical 1.runtimeconfig.json
+F:\study_matrial\sem-6\.NET\Projects\Lab_Practicals\Practical 1\bin\Debug\netcoreapp2.1\Practical 1.runtimeconfig.dev.json
+F:\study_matrial\sem-6\.NET\Projects\Lab_Practicals\Practical 1\bin\Debug\netcoreapp2.1\Practical 1.dll
+F:\study_matrial\sem-6\.NET\Projects\Lab_Practicals\Practical 1\bin\Debug\netcoreapp2.1\Practical 1.pdb
+F:\study_matrial\sem-6\.NET\Projects\Lab_Practicals\Practical 1\obj\Debug\netcoreapp2.1\Practical 1.csprojAssemblyReference.cache
+F:\study_matrial\sem-6\.NET\Projects\Lab_Practicals\Practical 1\obj\Debug\netcoreapp2.1\Practical 1.csproj.CoreCompileInputs.cache
+F:\study_matrial\sem-6\.NET\Projects\Lab_Practicals\Practical 1\obj\Debug\netcoreapp2.1\Practical 1.AssemblyInfoInputs.cache
+F:\study_matrial\sem-6\.NET\Projects\Lab_Practicals\Practical 1\obj\Debug\netcoreapp2.1\Practical 1.AssemblyInfo.cs
+F:\study_matrial\sem-6\.NET\Projects\Lab_Practicals\Practical 1\obj\Debug\netcoreapp2.1\Practical 1.dll
+F:\study_matrial\sem-6\.NET\Projects\Lab_Practicals\Practical 1\obj\Debug\netcoreapp2.1\Practical 1.pdb
